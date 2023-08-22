@@ -1,0 +1,5 @@
+print ("SAU",555,555.000,True,(10+50))
+print("SAU "+str(555)+' '+str(555.000)+' '+str(True)+' '+str(10+50))
+print ("SAU {} {} {} {}".format (555,555.000,True,10+50))
+print ("SAU {0} {2} {1} {3}".format (555,555.000,True,10+50))
+print (f'SAU (555) (555.555) (True) (10+50)')
